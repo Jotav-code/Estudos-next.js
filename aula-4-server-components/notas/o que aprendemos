@@ -1,0 +1,5 @@
+Nessa aula aprendemos a diferença de server componentes e client componentes
+
+o server componentes é executado do lado do servidor node. fizemos um exemplo criando um arquivo e escrevendo toda vez que um usuário entra na page. - O server componente tem uma caracterisca assincrona e não pode executar coisas do client component(Effect, State, Window) e entre outros
+
+Já o client component é o oposto, ele vai rodar no navegador do usuário. Geralmente vamos usar ele fora da pasta src. e para codar ele basta colocar "use client" no início
