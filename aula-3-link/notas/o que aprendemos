@@ -1,0 +1,1 @@
+Aprendemos sobre o link que é um componente que é utilizado inicialmente para navegar entre o site, com ele vem junto a propriedade prefetch, o que ela faz é pre-carregar todos os links, ou seja, quando o usuário entra no seu site e tem links para navegar ele já carrega essa página no servidor pra quando o usário clicar para ir para a página ele ser bem mais rápido
