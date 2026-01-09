@@ -1,0 +1,3 @@
+Nessa aula aprendemos como funciona o sistema de rotas do next.js. Ele fuciona com arquivos, semelhante ao wordpress como CMS, para ter uma rota nova basta criar uma pasta dentro de app com o nome da rota e inserir o arquivo page.tsx.
+
+aprendemos também como funciona as metadatas, titulo da página e descrição
