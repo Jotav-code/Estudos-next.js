@@ -1,0 +1,3 @@
+Vimos nessa aula que nao conseguimos misturar componentes, sever para um lado e client para outro. Aprendemos também que existe coisas que nao podem ser carregadas no lado do servidor, exemplo: document, ele nao está no servidor então ele nao pode ser carregado sozinho, ele precisa estar em algum hook para ser hidratado depois que a página carregar
+
+mas tem com "burlar" isso, através do dynamic, a gente vai ter que importar o nosso componente por ele se quisermos usar esse tipo de coisa em nossa aplicação. exemplo no Width
