@@ -1,0 +1,5 @@
+Aprendemos a fazer o fetch, tem uma diferença entre o fetch do lado do client e do lado do server. O do lado do server sempre carrega mais rápido e é considerado uma boa prática para SEO.
+
+Já o do client ele é o mesmo do react, se o javascript nao carregar ele não carrega o conteúdo isso pode ser ruim para SEO. 
+
+Temos tmbém uma diferença gigante no cache, o de server tem um cache muito agressivo, contrário do lado do client.
