@@ -1,0 +1,5 @@
+Aprendemos sobre rotas dinamicas e como elas funcionam, para utilziar é preciso criar uma nova pasta com "[]" e o nome que você quiser, usamos o [id] e [...slug], calma que tem diferença esses 3 tracinhos.
+
+Quando usamos usamos [id] sem os pontinhos quer dizer que essa rota vai ser única e não vai ter rotas descendentes, exemplo: se eu tentar acessar post/hoje/12horas não dá, ela só serve para uma page apenas
+
+já com os ... é o contrário, ele vai servir para extamente esse tipo de conportamento, as vezes temos uma página e essa página vai ter mais de uma "váriavel" como uma loja de roupa, seria dessa maneira camisa/preta/tamanho-g/aracaju
